@@ -1,0 +1,8 @@
+c:\users\$uman\documents\visual studio 2013\Projects\txtspeech\txtspeech\bin\Debug\txtspeech.exe
+c:\users\$uman\documents\visual studio 2013\Projects\txtspeech\txtspeech\bin\Debug\txtspeech.pdb
+c:\users\$uman\documents\visual studio 2013\Projects\txtspeech\txtspeech\obj\Debug\txtspeech.csprojResolveAssemblyReference.cache
+c:\users\$uman\documents\visual studio 2013\Projects\txtspeech\txtspeech\obj\Debug\txtspeech.Form1.resources
+c:\users\$uman\documents\visual studio 2013\Projects\txtspeech\txtspeech\obj\Debug\txtspeech.Properties.Resources.resources
+c:\users\$uman\documents\visual studio 2013\Projects\txtspeech\txtspeech\obj\Debug\txtspeech.csproj.GenerateResource.Cache
+c:\users\$uman\documents\visual studio 2013\Projects\txtspeech\txtspeech\obj\Debug\txtspeech.exe
+c:\users\$uman\documents\visual studio 2013\Projects\txtspeech\txtspeech\obj\Debug\txtspeech.pdb
